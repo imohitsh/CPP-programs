@@ -9,5 +9,5 @@ a=a^b;
 b=a^b;
 a=a^b;
  
- cout<<"After Swaaping a and b is= "<<a<<" & "<<b;
+ cout<<"After Swaping a and b is= "<<a<<" & "<<b;
 }
